@@ -1,4 +1,5 @@
-// eh2757 May 2017
+// ©EsterHlav, May 2017
+
 import java.lang.Math;
 
 public class BSOption {

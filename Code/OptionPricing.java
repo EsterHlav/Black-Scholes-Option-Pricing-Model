@@ -92,7 +92,7 @@ public class OptionPricing {
     frame.add(pricingButton);
 
     // copyright label
-    JLabel copyright = new JLabel("© 2017 Ester Hlavnova");
+    JLabel copyright = new JLabel("©EsterHlav 2017");
     copyright.setLocation(440,560);
     copyright.setSize(200, 10);
     frame.add(copyright);
