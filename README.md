@@ -1,30 +1,39 @@
 # Black-Scholes Option Pricing Model
-### Simulation of a Geometric Brownian Motion (Java)
+### Simulation of a Geometric Brownian Motion with Java
 ---
 
 **Ester Hlav, May 2017**
 
-This program contains an **Option Pricing Calculator** based on the Black-Scholes formula and generates **simulation of Geometric Brownian Motion**. Additionally, based on the input parameters from the user, the program can also calculate implied volatility as well as Greeks, and display a diagram of option payoff and volatility smile. All calculated and simulated outputs are a well-known concept in the field of quantitative finance and derivative contracts, and are using into great extent the parameters from the Black-Scholes formula. Moreover, user has the possibility to obtain an introduction to derivatives and test his knowledge in a GUI implemented quiz.
+This program is an *Option Pricing Model* based on the *Black-Scholes formula*. It includes both an **Option Pricing Calculator** as well as a  **Geometric Brownian Motion Simulator** based on a random generator. 
+Additionaly, based on parameters given by the user, the program can calculate **implied volatility** and **Greeks** (*i.e.* the derivatives of an option value regarding the different factors such as stock price, strike price, volatility etc.) as well as output diagrams of **option payoff** and **volatility smile**. 
+All calculated and simulated outputs are well-known concepts in the field of quantitative finance and derivative contracts and are using parameters from the Black-Scholes formula.
+Finally, a GUI with a brief introduction to options and option pricing was developed for users new to the field of quantiative finance.
 
-For more detailed information on the program's structure and the underlying mathematics used, please report to **[Explanations.pdf](https://github.com/EsterHlav/Black-Scholes-Option-Pricing-Model/blob/master/Explanations.pdf)**
+
+Figure1
+[Figure1](Figure1.png)
+
 
 ---
 
 ## Modules
 
-### 1 - Introduction to Calls and Puts
+### PART A - Introduction to Calls and Puts
  - Slides
  - Quizz
+[Figure2](Figure2.png)
 
 ### Demo
 ![gif animation](https://github.com/EsterHlav/Black-Scholes-Option-Pricing-Model/raw/master/QuizzHD.gif "overview")
 
-### 2 - Computation
+### PART B - Option Pricing Calcualtor and Brownian Motion Simulator
+[Figure4](Figure4.png)
+#### 1- Computation
  - Computing the Option Price
  - Computing the Implied Volatility
  - Computing the Greeks
 
-### 3 - Simulation
+#### 2 - Simulation
  - Geometric Brownian Motion
  - Payoff/Value Diagram
  - Volatility Smile
