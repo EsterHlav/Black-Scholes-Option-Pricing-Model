@@ -24,7 +24,7 @@ Finally, a GUI with a brief introduction to options and option pricing was devel
 ![Figure2](https://github.com/EsterHlav/Black-Scholes-Option-Pricing-Model/raw/master/Figure2.png ){:height="50%" width="50%"}
 
 ### Demo
-![gif animation](https://github.com/EsterHlav/Black-Scholes-Option-Pricing-Model/raw/master/QuizzHD.gif )
+![gif animation](https://github.com/EsterHlav/Black-Scholes-Option-Pricing-Model/raw/master/QuizzHD.gif ){:height="400px" width="200px"}
 
 ### PART B - Option Pricing Calcualtor and Brownian Motion Simulator
 #### 1- Computation
