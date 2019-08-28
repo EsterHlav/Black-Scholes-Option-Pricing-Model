@@ -10,8 +10,8 @@ All calculated and simulated outputs are well-known concepts in the field of qua
 Finally, a GUI with a brief introduction to options and option pricing was developed for users new to the field of quantiative finance.
 
 
-Figure1
-[Figure1](Figure1.png)
+
+![Figure1](Figure1.png)
 
 
 ---
@@ -21,7 +21,7 @@ Figure1
 ### PART A - Introduction to Calls and Puts
  - Slides
  - Quizz
-[Figure2](Figure2.png)
+![Figure2](Figure2.png)
 
 ### Demo
 ![gif animation](https://github.com/EsterHlav/Black-Scholes-Option-Pricing-Model/raw/master/QuizzHD.gif "overview")
