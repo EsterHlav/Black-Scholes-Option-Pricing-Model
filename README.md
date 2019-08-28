@@ -21,10 +21,10 @@ Finally, a GUI with a brief introduction to options and option pricing was devel
 ### PART A - Introduction to Calls and Puts
  - Slides
  - Quizz
-![Figure2](https://github.com/EsterHlav/Black-Scholes-Option-Pricing-Model/raw/master/Figure2.png "overview")
+![Figure2](https://github.com/EsterHlav/Black-Scholes-Option-Pricing-Model/raw/master/Figure2.png ){:height="50%" width="50%"}
 
 ### Demo
-![gif animation](https://github.com/EsterHlav/Black-Scholes-Option-Pricing-Model/raw/master/QuizzHD.gif "overview")
+![gif animation](https://github.com/EsterHlav/Black-Scholes-Option-Pricing-Model/raw/master/QuizzHD.gif )
 
 ### PART B - Option Pricing Calcualtor and Brownian Motion Simulator
 #### 1- Computation
